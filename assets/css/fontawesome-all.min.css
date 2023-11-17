@@ -6260,3 +6260,19 @@
 .flx {
     display: flex;
 }
+
+
+.width-l {
+    width: 60%;
+}
+
+
+.margin-10px {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+.border {
+    border: 1px solid;
+}
